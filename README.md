@@ -11,7 +11,7 @@ A simple API built using FastAPI for booking fitness classes like Yoga, Zumba, a
 ## 🛠 Setup Instructions
 
 ```bash
-git clone https://[https://github.com/Abhivera/booking_api]
+git clone https://github.com/Abhivera/booking_api
 cd fitness-api
 pip install -r requirements.txt
 python seed_data.py
